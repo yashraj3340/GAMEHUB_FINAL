@@ -1,6 +1,4 @@
-Here’s the updated README file with the licensing and contributing sections removed:
 
----
 
 # GameHub
 
