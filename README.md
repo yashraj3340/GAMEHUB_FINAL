@@ -1,8 +1,11 @@
-
-
+```markdown
 # GameHub
 
 Welcome to GameHub, a comprehensive platform for discovering and tracking video games. This project utilizes the RAWG API to provide detailed game information and enhance your gaming experience.
+
+## Live Demo
+
+You can view the live demo of GameHub at: [https://gamehub-d4ac4.web.app](https://gamehub-d4ac4.web.app)
 
 ## Table of Contents
 
@@ -83,6 +86,4 @@ GameHub uses the [RAWG API](https://rawg.io/apidocs) to fetch game data. Here’
     - `key` - Your API key.
 
 For detailed API documentation, refer to the [RAWG API Docs](https://rawg.io/apidocs).
-
----
-
+```
