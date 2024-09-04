@@ -1,4 +1,4 @@
-```markdown
+
 # GameHub
 
 Welcome to GameHub, a comprehensive platform for discovering and tracking video games. This project utilizes the RAWG API to provide detailed game information and enhance your gaming experience.
